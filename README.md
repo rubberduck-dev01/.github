@@ -4,7 +4,7 @@
 
 <img width="863" height="251" alt="vivat-cucumis-stonecore" src="https://github.com/user-attachments/assets/39c1cda5-f21b-419f-b285-1c7558ccbfaf" />
 
-# VIVAT CUCUMIS
+### V I V A T ❤️ C U C U M I S ™
 
 **La clé 18089** d'une table de ressources dans **VBE7INTL.DLL** a été découverte le **2016-05-26** par le contributeur Rubberduck historique @Comintern - un petit trésor caché au milieu de libellés autrement ordinaires.
 
