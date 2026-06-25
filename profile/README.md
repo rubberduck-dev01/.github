@@ -1,126 +1,62 @@
-# rubberduck-vba
+# rubberduck-vba | [rubberduckvba.ca](https://rubberduckvba.ca)
 
-![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
+**La demeure officielle de _Rubberduck VBA_ sur GitHub | The official home of _Rubberduck VBA_ on GitHub**
 
-##### [(English version follows)](#english)
+<img width="863" height="251" alt="vivat-cucumis-stonecore" src="https://github.com/user-attachments/assets/39c1cda5-f21b-419f-b285-1c7558ccbfaf" />
 
-Cette organisation **GitHub** héberge Rubberduck depuis le tout début, et continuera de le faire.
+### V I V A T ❤️ C U C U M I S ™
 
- - [A propos](a-propos.md)
- - [Politique de confidentialité](confidentialite.md)
- - [Nous joindre](nous-joindre.md)
+**La clé 18089** d'une table de ressources dans **VBE7INTL.DLL** a été découverte le **2016-05-26** par le contributeur Rubberduck historique @Comintern - un petit trésor caché au milieu de libellés autrement ordinaires.
 
-## Archive Historique
+Le projet Rubberduck a toujours voulu faire quelque chose de cette phrase, et donc **Rubberduck Core** se l'approprie - en faisant du langage Visual Basic et de l'héritage de son code source le proverbial concombre. L'écrire en latin et le graver dans la pierre lui fait dire "ceci était là bien avant vous, et sera toujours là bien après vous".
 
-Les dépôts git sous cette organisation en date du 2026-02-28 constituent l'archive historique et l'héritage de _Rubberduck_. Il s'agit de contenu ayant contribué au développement, à l'essort, à la renommée de _Rubberduck_ au fil des ans. La compagnie constituée dans ce but, s'engage à défendre les droits de ses auteurs et contributeurs historiques. Pour toute question, veuillez contacter **admin@rubberduckvba.ca** par courriel, ou consulter la section **nous joindre** pour d'autres options.
+```
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+{
+ 18080, "Tile Horizontally"
+ 18081, "Tile Vertically"
+ 18082, "Arrange Icons"
+ 18083, "Microsoft Visual Basic for Applications Help Topics"
+ 18084, "Search Reference Index..."
+ 18085, "Obtaining Technical Support"
+ 18088, "About Microsoft Visual Basic for Applications..."
+ 18089, "Long Live the Cucumber"
+ 18090, "Break On All"
+ 18091, "Break In Ole Server"
+ 18092, "Break On Unhandled"
+}
+```
 
+**Key 18089** of an English-US string resource table within **VBE7INTL.DLL** was found on **2016-05-26** by historical Rubberduck contributor @Comintern - a little gem hidden between otherwise ordinarily boring label captions.
 
-## Téléchargement – Où trouver Rubberduck v2.x?
-
-La version **2.x** de Rubberduck représente l'aboutissement de plus d'une décennie de développement actif du projet original.  
-Bien qu'elle ne soit plus en développement actif, l'ensemble du projet demeure disponible à des fins historiques et de référence.
-
-👉 **Dernière version Rubberduck v2.x (build officiel et pré‑versions)**  
-- [Build officiel](https://github.com/rubberduck-vba/Rubberduck/latest)
-- [Toutes les versions](https://github.com/rubberduck-vba/Rubberduck/releases)
-
-> ⚠️ Ces versions sont fournies telles quelles, sans garantie, et principalement à des fins d’archivage, de compatibilité et de recherche.
-
-
-## Blogue du Projet (Rubberduck News)
-
-Le blogue officiel du projet, **Rubberduck News**, contient de nombreuses années d'articles techniques, d'annonces de versions, de réflexions sur le design logiciel et de contenu éducatif autour de VBA, VB6 et du développement d'outils pour le VBE.
-
-👉 **Rubberduck News (contenu historique en Anglais seulement)**
-- [Rubberduck News (WordPress)](https://rubberduckvba.blog/)
-
-*Assurez-vous d'être abonnés au blogue afin d’être informé lorsque tous les détails seront présentés dans un prochain article.*
+The Rubberduck project always wanted to do something with this, and so **RDCore** appropriates it - making the Visual Basic language and its legacy source code the proverbial cucumber that shall live on. Writing it in Latin and carving it in stone makes it say "this was here well before you, and will still be there well after you".
 
 ---
 
-# Mentions légales
-<a name="legal-fr"></a>
+# Téléchargements | Downloads
 
-<small>
-©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
-« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés, et protégés par <em>9562-7303 Québec inc.</em> (dépôt en attente).
-</small>
-<br/>
-<br/>
+Vous trouverez dans ce dépôt les documents publics suivants en accès libre, offerts pour fins de référence et de documentation :
 
-> **Avis relatif aux marques de commerce**  
->  
-> Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus. 
-> Toute référence à ces marques sur ce site constitue une affirmation des droits de <em>9562-7303 Québec inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
-> Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
-> Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
+- [**MS-VBAL**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/%5BMS-VBAL%5D.pdf) : La version de la spécification du langage de programmation _Visual Basic for Appplication_ (VBA) de Microsoft utilisée par 9562-7303 Québec inc. pour l'implémentation du serveur de langage (LSP) de **RDCore**.
+- [**Rubberduck Style Guide (2023 Edition)**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2023%20Edition).pdf) : Le document original publié en juin 2023 par Mathieu Guindon (anglais seulement).
+- [**Rubberduck Style Guide (2nd Edition) - EN**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2nd%20Edition%20-%20EN).pdf) : 2e édition (version anglaise), publiée avril 2026 par 9562-7303 Québec inc.
+- [**Rubberduck Style Guide (2e Edition) - FR**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2e%20Edition%20-%20FR).pdf) : 2e édition (version française), publiée avril 2026 par 9562-7303 Québec inc.
 
-Accueil | [A propos](a-propos.md) | [Politique de confidentialité](confidentialite.md) | [Nous joindre](nous-joindre.md)
+This repository is home to the following public documents, freely available for reference and documentation purposes:
+- [**MS-VBAL**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/%5BMS-VBAL%5D.pdf): The specific version of the _Visual Basic for Appplication_ (VBA) language specifications from Microsoft, used by 9562-7303 Québec inc. to implement the language server (LSP) in **RDCore**.
+- [**Rubberduck Style Guide (2023 Edition)**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2023%20Edition).pdf): The original document published in June 2023 by Mathieu Guindon (English only).
+- [**Rubberduck Style Guide (2nd Edition) - EN**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2nd%20Edition%20-%20EN).pdf): 2nd edition (English version), published in April 2026 by 9562-7303 Québec inc.
+- [**Rubberduck Style Guide (2e Edition) - FR**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2e%20Edition%20-%20FR).pdf): 2nd edition (French version), published in April 2026 by 9562-7303 Québec inc.
 
----
 
-##### English
-<a name="english"></a>
-
-# rubberduck-vba
-
-![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
-
-This **GitHub** organization has hosted Rubberduck since its very beginning and will continue to do so.
-
- - [About](about.md)
- - [Privacy policy](privacy.md)
- - [Contact us](contact-us.md)
-
-## Historical Archive
-
-The git repositories under this organization as of 2026-02-28 constitute the historical archive and legacy of _Rubberduck_.  
-This content played a significant role in the development, growth, and recognition of the project over the years.
-
-The company incorporated for this purpose is committed to defending the rights of Rubberduck’s historical authors and contributors.  
-For any inquiries, please contact **admin@rubberduckvba.ca** by email, or consult the **Contact us** section for additional options.
-
-## Download – Where to find Rubberduck v2.x
-
-The **2.x** branch of Rubberduck represents the culmination of more than a decade of active development of the original project.
-
-Although it is no longer under active development, the complete project remains available for historical and reference purposes.
-
-👉 **Last Rubberduck v2.x release (official builds and pre releases)**  
-- [Official build](https://github.com/rubberduck-vba/Rubberduck/latest)  
-- [All releases](https://github.com/rubberduck-vba/Rubberduck/releases)
-
-> ⚠️ These versions are provided as is, without warranty, and are intended primarily for archival, compatibility, and research purposes.
-
-## Project Blog (Rubberduck News)
-
-The official project blog, **Rubberduck News**, contains many years of technical articles, release announcements, software design discussions, and educational content related to VBA, VB6, and tooling for the VBE.
-
-👉 **Rubberduck News (English only)**  
-- [Rubberduck News (WordPress)](https://rubberduckvba.blog/)
-
-*Make sure you are subscribed to be notified when everything is explained in an upcoming blog post.*
-
----
-
-## Legal notice
-<a name="legal-en"></a>
-
-<small>
-©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
-“Rubberduck” and “rubberduck-vba” are trademarks whose rights are claimed, exercised, and actively protected by <em>9562-7303 Québec inc.</em> (applications pending).
-</small>
-
-<br/>
-<br/>
-
-> **Trademark Notice**  
->  
-> The “Rubberduck” and “rubberduck-vba” trademarks have been used for many years in association with the Rubberduck project and the software tools derived from it.
->  
-> Any reference to these trademarks on this site constitutes an assertion of rights by <em>9562-7303 Québec inc.</em>, without prejudice to any legitimate rights that third parties may hold in other contexts or jurisdictions. 
-> No tolerance, waiver, or implied authorization is granted by the use or mention of these trademarks.
-> This position does not, in itself, preclude good‑faith coexistence arrangements where they are compatible with protecting the rights asserted.
-<br/>
-
-Home | [About](about.md) | [Privacy Policy](privacy.md) | [Contact us](contact-us.md)
+<hr/>
+<p align='left' style='margin-left: 32px;'>
+<a href='https://rubberduck-vba.github.io/RDCore/index.fr.html'>ACCUEIL</a> • <a href='https://rubberduck-vba.github.io/RDCore/index.html'>HOME</a>  | ℹ️ <a href='https://rubberduck-vba.github.io/RDCore/introduction.fr.html'>BIENVENUE</a> • <a href='https://rubberduck-vba.github.io/RDCore/introduction.html'>WELCOME</a>  | 🧩 <a href='https://rubberduck-vba.github.io/RDCore/getting-started.fr.html'>BÂTISSONS</a> • <a href='https://rubberduck-vba.github.io/RDCore/getting-started.html'>BUILD</a>  | <a href='https://rubberduck-vba.github.io/RDCore/specs/rd-vbal.html'><strong>RD-VBAL</strong></a>  |  <a href='https://rubberduck-vba.github.io/RDCore/api/RDCore.SDK.Model.Errors.VBCompileErrorId.html'>SDK</a>  | 🌐 <a href='https://rubberduckvba.ca'>rubberduckvba.ca</a>
+</p>
+<hr/>
+<p align='center'><img alt='Logo™ 9562-7303 Québec inc.' src='./assets/vector-ducky.svg' style='width:200px; align:center;' /></p>
+<h6 align='center'>V I V A T ❤️ C U C U M I S ™</h6>
+<p align='center' style='font-size:8pt;'>
+<small>© Copyright <strong>9562-7303 Québec inc.</strong> (2026)<br/><em>Seul, &quot;Rubberduck&quot; est utilisé pour fins de référence au projet open-source legacy <strong>utilisé publiquement ainsi depuis 2015</strong> et sans lien ni affiliation avec tout tiers détenteur d'une marque semblable dans quelque juridiction que ce soit.<br/>&quot;Rubberduck VBA&quot;, &quot;RDCore&quot; et &quot;VIVAT CUCUMIS&quot; sont des marques de commerce revendiquées par 9562-7303 Québec inc. (en attente); Toutes les marques appartiennent à leur détenteur respectif.<br/>RDCore n'est pas un produit de Microsoft et n'est pas affilié à Microsoft, ni directement, ni indirectement.<br/><br/>If used alone, <em>&quot;Rubberduck&quot; is used as a reference to the legacy open-source project <strong>the same way it has been used publicly since 2015</strong> and without any links or affiliation with any third-party trademark holders of a similar trademark in any jurdisdiction.<br/>&quot;Rubberduck VBA&quot;, &quot;RDCore&quot; and &quot;VIVAT CUCUMIS&quot; are trademarks claimed by 9562-7303 Québec inc. (pending). All trademarks belong to their respective owners.<br/>RDCore is not a Microsoft product and is not affiliated with Microsoft, directly or indirectly.</small>
+</p>
